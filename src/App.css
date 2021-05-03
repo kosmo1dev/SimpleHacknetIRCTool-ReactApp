@@ -1,0 +1,15 @@
+.mediumtall {
+  height:200px;
+}
+
+.tall {
+  height:500px;
+}
+
+.scroll {
+  overflow-y:scroll;
+}
+
+.nonresizable {
+  resize:none;
+}
